@@ -6,5 +6,5 @@
 6. Use Inter font for the entire project.
 7. Style all the content of the page, it must look similar to the model given in the figma design.
 8. Add icons and hover effects also when the section is active.
-9. Also add dummy add to cart below every product.
-10. Make the site responsive for all screen size like mobile phone, tablet and desktop.
+9. Also added dummy add to cart below every product.
+10. Maked the site responsive for all screen size like mobile phone, tablet and desktop.
